@@ -38,6 +38,8 @@ The activation function is `ReLU`.
 ### Results discussion
 The training went very successful, resulting a solved environment in approximately `1200 episodes`, giving maximum undiscounted score of `24`, averaged over 10 episodes reward of `17.2`. This result is significantly improved on the bench mark results of Udacity which solves the environment at approximately 1700 eposides, with less averaged score.
 
+**From the figure of result below, it is evident that the episodes training required to achieve average score of +13 are approximately 500~550 episodes.**
+
 ![reward](https://user-images.githubusercontent.com/69092110/201941056-a96298aa-17ab-444e-a22e-f8fb368feec2.png)
 
 ### Future improvements
